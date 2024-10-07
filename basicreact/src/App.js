@@ -1,11 +1,7 @@
-import Chai from "./chai"
 
 function App() {
-  return (
-    <>
-    <Chai/>
-    <h1>SHALINI VERMA</h1>
-    </>
+  return (  
+    <h1>AMAN SHAHI</h1>
   );
 }
 
